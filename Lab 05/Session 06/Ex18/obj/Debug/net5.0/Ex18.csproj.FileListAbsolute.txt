@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Session 06\Ex18\bin\Debug\net5.0\Ex18.exe
+C:\Users\ADMIN\source\repos\Session 06\Ex18\bin\Debug\net5.0\Ex18.deps.json
+C:\Users\ADMIN\source\repos\Session 06\Ex18\bin\Debug\net5.0\Ex18.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Session 06\Ex18\bin\Debug\net5.0\Ex18.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Session 06\Ex18\bin\Debug\net5.0\Ex18.dll
+C:\Users\ADMIN\source\repos\Session 06\Ex18\bin\Debug\net5.0\ref\Ex18.dll
+C:\Users\ADMIN\source\repos\Session 06\Ex18\bin\Debug\net5.0\Ex18.pdb
+C:\Users\ADMIN\source\repos\Session 06\Ex18\obj\Debug\net5.0\Ex18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Session 06\Ex18\obj\Debug\net5.0\Ex18.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Session 06\Ex18\obj\Debug\net5.0\Ex18.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Session 06\Ex18\obj\Debug\net5.0\Ex18.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Session 06\Ex18\obj\Debug\net5.0\Ex18.dll
+C:\Users\ADMIN\source\repos\Session 06\Ex18\obj\Debug\net5.0\ref\Ex18.dll
+C:\Users\ADMIN\source\repos\Session 06\Ex18\obj\Debug\net5.0\Ex18.pdb
+C:\Users\ADMIN\source\repos\Session 06\Ex18\obj\Debug\net5.0\Ex18.genruntimeconfig.cache
