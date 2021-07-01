@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\bin\Debug\net5.0\AnonTypes.exe
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\bin\Debug\net5.0\AnonTypes.deps.json
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\bin\Debug\net5.0\AnonTypes.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\bin\Debug\net5.0\AnonTypes.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\bin\Debug\net5.0\AnonTypes.dll
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\bin\Debug\net5.0\ref\AnonTypes.dll
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\bin\Debug\net5.0\AnonTypes.pdb
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\obj\Debug\net5.0\AnonTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\obj\Debug\net5.0\AnonTypes.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\obj\Debug\net5.0\AnonTypes.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\obj\Debug\net5.0\AnonTypes.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\obj\Debug\net5.0\AnonTypes.dll
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\obj\Debug\net5.0\ref\AnonTypes.dll
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\obj\Debug\net5.0\AnonTypes.pdb
+C:\Users\ADMIN\source\repos\Session01\AnonTypes\obj\Debug\net5.0\AnonTypes.genruntimeconfig.cache

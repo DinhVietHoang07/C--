@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.exe
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.deps.json
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.dll
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\bin\Debug\net5.0\ref\ReferenceType.dll
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\bin\Debug\net5.0\ReferenceType.pdb
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.dll
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\obj\Debug\net5.0\ref\ReferenceType.dll
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.pdb
+C:\Users\ADMIN\source\repos\Session01\ReferenceType\obj\Debug\net5.0\ReferenceType.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\bin\Debug\net5.0\NumberFormat.exe
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\bin\Debug\net5.0\NumberFormat.deps.json
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\bin\Debug\net5.0\NumberFormat.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\bin\Debug\net5.0\NumberFormat.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\bin\Debug\net5.0\NumberFormat.dll
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\bin\Debug\net5.0\ref\NumberFormat.dll
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\bin\Debug\net5.0\NumberFormat.pdb
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\obj\Debug\net5.0\NumberFormat.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\obj\Debug\net5.0\NumberFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\obj\Debug\net5.0\NumberFormat.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\obj\Debug\net5.0\NumberFormat.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\obj\Debug\net5.0\NumberFormat.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\obj\Debug\net5.0\NumberFormat.dll
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\obj\Debug\net5.0\ref\NumberFormat.dll
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\obj\Debug\net5.0\NumberFormat.pdb
+C:\Users\ADMIN\source\repos\Session01\NumberFormat\obj\Debug\net5.0\NumberFormat.genruntimeconfig.cache

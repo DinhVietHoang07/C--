@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.exe
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.deps.json
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.dll
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\bin\Debug\net5.0\ref\DateTimeFormat.dll
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\bin\Debug\net5.0\DateTimeFormat.pdb
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.dll
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\obj\Debug\net5.0\ref\DateTimeFormat.dll
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.pdb
+C:\Users\ADMIN\source\repos\Session01\DateTimeFormat\obj\Debug\net5.0\DateTimeFormat.genruntimeconfig.cache

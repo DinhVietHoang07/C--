@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.exe
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.deps.json
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.dll
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\bin\Debug\net5.0\ref\ImplicitilyTypedLocal.dll
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\bin\Debug\net5.0\ImplicitilyTypedLocal.pdb
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.dll
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\obj\Debug\net5.0\ref\ImplicitilyTypedLocal.dll
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.pdb
+C:\Users\ADMIN\source\repos\Session01\ImplicitilyTypedLocal\obj\Debug\net5.0\ImplicitilyTypedLocal.genruntimeconfig.cache
