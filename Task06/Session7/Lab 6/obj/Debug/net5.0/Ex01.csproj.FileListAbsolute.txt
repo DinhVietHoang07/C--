@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Session7\Lab 6\obj\Debug\net5.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Session7\Lab 6\obj\Debug\net5.0\Ex01.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Session7\Lab 6\obj\Debug\net5.0\Ex01.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Session7\Lab 6\obj\Debug\net5.0\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Session7\Lab 6\bin\Debug\net5.0\Ex01.exe
+C:\Users\ADMIN\source\repos\Session7\Lab 6\bin\Debug\net5.0\Ex01.deps.json
+C:\Users\ADMIN\source\repos\Session7\Lab 6\bin\Debug\net5.0\Ex01.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Session7\Lab 6\bin\Debug\net5.0\Ex01.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Session7\Lab 6\bin\Debug\net5.0\Ex01.dll
+C:\Users\ADMIN\source\repos\Session7\Lab 6\bin\Debug\net5.0\ref\Ex01.dll
+C:\Users\ADMIN\source\repos\Session7\Lab 6\bin\Debug\net5.0\Ex01.pdb
+C:\Users\ADMIN\source\repos\Session7\Lab 6\obj\Debug\net5.0\Ex01.dll
+C:\Users\ADMIN\source\repos\Session7\Lab 6\obj\Debug\net5.0\ref\Ex01.dll
+C:\Users\ADMIN\source\repos\Session7\Lab 6\obj\Debug\net5.0\Ex01.pdb
+C:\Users\ADMIN\source\repos\Session7\Lab 6\obj\Debug\net5.0\Ex01.genruntimeconfig.cache

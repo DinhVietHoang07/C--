@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\Session7\Ex02\bin\Debug\net5.0\Ex02.exe
+C:\Users\ADMIN\source\repos\Session7\Ex02\bin\Debug\net5.0\Ex02.deps.json
+C:\Users\ADMIN\source\repos\Session7\Ex02\bin\Debug\net5.0\Ex02.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Session7\Ex02\bin\Debug\net5.0\Ex02.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Session7\Ex02\bin\Debug\net5.0\Ex02.dll
+C:\Users\ADMIN\source\repos\Session7\Ex02\bin\Debug\net5.0\ref\Ex02.dll
+C:\Users\ADMIN\source\repos\Session7\Ex02\bin\Debug\net5.0\Ex02.pdb
+C:\Users\ADMIN\source\repos\Session7\Ex02\obj\Debug\net5.0\Ex02.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Session7\Ex02\obj\Debug\net5.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Session7\Ex02\obj\Debug\net5.0\Ex02.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Session7\Ex02\obj\Debug\net5.0\Ex02.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Session7\Ex02\obj\Debug\net5.0\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Session7\Ex02\obj\Debug\net5.0\Ex02.dll
+C:\Users\ADMIN\source\repos\Session7\Ex02\obj\Debug\net5.0\ref\Ex02.dll
+C:\Users\ADMIN\source\repos\Session7\Ex02\obj\Debug\net5.0\Ex02.pdb
+C:\Users\ADMIN\source\repos\Session7\Ex02\obj\Debug\net5.0\Ex02.genruntimeconfig.cache
