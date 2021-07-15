@@ -1,0 +1,4 @@
+C:\Users\ADMIN\source\repos\Task9\GameAndFilm\obj\Debug\net5.0\GameAndFilm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Task9\GameAndFilm\obj\Debug\net5.0\GameAndFilm.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Task9\GameAndFilm\obj\Debug\net5.0\GameAndFilm.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Task9\GameAndFilm\obj\Debug\net5.0\GameAndFilm.csproj.CoreCompileInputs.cache

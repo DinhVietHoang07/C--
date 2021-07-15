@@ -1,0 +1,5 @@
+C:\Users\ADMIN\source\repos\Task9\WithNonGenericCollections\obj\Debug\net5.0\WithNonGenericCollections.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Task9\WithNonGenericCollections\obj\Debug\net5.0\WithNonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Task9\WithNonGenericCollections\obj\Debug\net5.0\WithNonGenericCollections.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Task9\WithNonGenericCollections\obj\Debug\net5.0\WithNonGenericCollections.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Task9\WithNonGenericCollections\obj\Debug\net5.0\WithNonGenericCollections.csproj.CoreCompileInputs.cache
