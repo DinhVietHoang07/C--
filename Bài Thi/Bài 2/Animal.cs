@@ -1,12 +1,25 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Bài_2
 {
-    class Program
+    class Animal
     {
-        static void Main(string[] args)
+        public string Name { get; set; }
+        public double Weight { get; set; }
+
+        public void SetMe(string name, double weight)
         {
-            Console.WriteLine("Hello World!");
+            Name = name;
+            Weight = weight;
+        }
+
+        public void Show()
+        {
+            Console.WriteLine($"Name: {Name}, Weight {Weight}");
         }
     }
 }

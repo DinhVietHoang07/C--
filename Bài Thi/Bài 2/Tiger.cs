@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Bài_2
 {
-    class Class2
+    class Tiger : Animal
     {
+        public Tiger()
+        {
+            Name = "Tiger";
+            Weight = 100;
+        }
     }
 }

@@ -1,12 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Bài_2
 {
-    class Class1
+    class Program
     {
+        static void Main(string[] args)
+        {
+            Tiger tiger = new Tiger();
+            Console.WriteLine();
+            Lion lion = new Lion();
+
+            tiger.Show();
+            lion.Show();
+        }
     }
 }
